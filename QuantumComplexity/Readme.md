@@ -1,6 +1,6 @@
-# Theoretical present
+# Learning Quantum Complexity Theory:
 
-Hoho,
+Hohoho,
 
 As you say that you wish to study and understand **Quantum Complexity Theory**, let me refer you to one of the greatest masters in the topic: Scott Aaronson.
 In the unlikely case that you don't know him, check him out in his [TED talk](https://www.youtube.com/watch?v=JvIbrDR1G_c) mode. Wonderful!
