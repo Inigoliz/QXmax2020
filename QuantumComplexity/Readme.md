@@ -12,3 +12,6 @@ In the unlikely case that you don't know him, check him out in his [TED talk](ht
 I know that it might be pretty difficult to follow a course on your own. I hope this serves you as an excuse to do so and find some motivation. And just in case you need some extra passion, I will be also learning about these topics in the near future, so we could push ourselves together not to procrastinate.
 
 Cheers!
+
+PD.
+My name is Iñigo Lara and I study a MSc in Quantum Computing at Niels Bohr Institute, Copenhagen. Find me at inilariz@gmail.com.
