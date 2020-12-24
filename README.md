@@ -8,6 +8,6 @@ To train and level up that ability it is a good practice to have some spare time
 This is going to be one of my new year proposals. Will you join me?
 
 
-Apart from this small piece of thoughts, I have put together a **Learning Ressource** for you. It is variated and focused on different topics. But basically and given your background and interests, it is a set of interesting links to quantum complexity theory, some cool science divulgation channels, and some random things that would be cool to watch.
+Apart from this small piece of thoughts, I have put together a **Learning Ressource** for you. It is variated and focused on different topics. But basically and given your background and interests, it is a set of interesting links to quantum complexity theory, some cool science divulgation channels, and some random things that I hope you find cool to watch.
 
 Enjoy!
