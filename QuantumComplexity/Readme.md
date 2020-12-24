@@ -8,3 +8,7 @@ In the unlikely case that you don't know him, check him out in his [TED talk](ht
 - He wrote one of the best textbooks in the topic, starting simple but covering most of the topics until recent research: *Quantum Computing since Democritus*.
 - He has a wonderful blog in which he posts about many topics. For example, check out [Procrastiantion](https://www.scottaaronson.com/blog/?cat=3).
 - If you are more into real courses, follow one of his courses at [MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-845-quantum-complexity-theory-fall-2010/index.htm) in QComplexity.
+
+I know that it might be pretty difficult to follow a course on your own. I hope this serves you as an excuse to do so and find some motivation. And just in case you need some extra passion, I will be also learning about these topics in the near future, so we could push ourselves together not to procrastinate.
+
+Cheers!
