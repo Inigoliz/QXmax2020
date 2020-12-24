@@ -1,3 +1,6 @@
+# Random Science
+## Some random links aboput random topics inside Science, Quantum and Computing:
+
 Sometimes we just need some hel getting out of our comfort zone: some others give us ideas and we think "dude, how is it possible that I sis not find that before". Let me send you two cool topics and ressources I have discovered pretty recently:
 
 - I have been a great fan of **R. P. Feynman** for such a long time. But you know this feeling when a person does never end surprising you?
